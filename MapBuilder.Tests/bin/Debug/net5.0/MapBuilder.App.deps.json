@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MapBuilder.App/1.0.0": {
+        "runtime": {
+          "MapBuilder.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MapBuilder.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

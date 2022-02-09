@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77abace2-5a17-4b17-af91-00d45876fee2": {
+      "ProjectGuid": "77abace2-5a17-4b17-af91-00d45876fee2",
+      "DisplayName": "MapBuilder.App",
+      "ColorIndex": 0
+    },
+    "c60d14f7-6a2a-4507-b69c-1f16040ddbca": {
+      "ProjectGuid": "c60d14f7-6a2a-4507-b69c-1f16040ddbca",
+      "DisplayName": "MapBuilder.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
